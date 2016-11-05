@@ -1,0 +1,5 @@
+c:\users\mohammed\documents\visual studio 2010\Projects\DB1_Project\DB1_Project\bin\Debug\DB1_Project.exe
+c:\users\mohammed\documents\visual studio 2010\Projects\DB1_Project\DB1_Project\bin\Debug\DB1_Project.pdb
+c:\users\mohammed\documents\visual studio 2010\Projects\DB1_Project\DB1_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mohammed\documents\visual studio 2010\Projects\DB1_Project\DB1_Project\obj\x86\Debug\DB1_Project.exe
+c:\users\mohammed\documents\visual studio 2010\Projects\DB1_Project\DB1_Project\obj\x86\Debug\DB1_Project.pdb
