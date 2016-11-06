@@ -8,7 +8,7 @@ File System Database is a project college to database 1(DB1) subject in Yarmouk 
 This program wrote in C# language where appears user interface(UI) like CMD. At the beginning, it shows root directory which considers head of tree in the file system, and it performs the following instructions:
 
   - CD [folder name]: to enter into a specific folder.
-  - CD . :  to go to one folder up.
+  - CD .. :  to go to one folder up.
   - DIR: to view contents of a folder.
   - MKDIR [folder name]: to create folder in current location.
   - RMDIR [folder name]: to remove empty folder in current location.
